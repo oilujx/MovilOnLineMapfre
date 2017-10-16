@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\50321d20384747aba2065a732db9771b97d9572c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ceb0578ebec8a9ca160d7e0d057e17e339eef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\bd125415ad72bfb069025e24ead0b4c20e7a79b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d144dae6cced95d1fe476f23633ff4430b964ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_38b74e4be266d69e70035860c1bf242ab4307618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\826b2af94d8d7e6a46d194437b8db8bad00bd3c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_703a85333c04dd37c7159b264c07fce13e92c317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_54dc45dfabb608f3363bca49d90843bc42ff330f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\bd7482d032703ff9e547a4f81ba40a72ca96d101\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a960178344f2493d552646aae0641d9574774f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\1d6227e33e906fdc336d8682d1ba618ec82f3475\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca4b92fe1f380b82d03b1f40bea223daefdd8759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\4e09afa2f6a27da43bbb14abfc1547dff071a8f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df1084fe354ac92cfc3f91f4699a1fea3ee24592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6e9f16b4a0efef14a5cdcaae340caf85071a04a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e1e2bb518f86a10089934c0ba6bf769e408cd26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\886aac411d2ac5fd20d01ba3a21572d38e2add4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e61ae2a0be059a746893925c12d9200d17aa66ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\1d6227e33e906fdc336d8682d1ba618ec82f3475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1855d11e55aca0c767b3fc61f55719022d5d42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\e67e5ba118f043eaeece85985ced44cad480838c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eb4abe32f22f9f8738767782cf629f143cd289c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_1000583ae91e402d26214813814a662e9313bbe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b08326c03068fd99075faccb968f0b1b16d8268a">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_91d028620fd86b5d48740492bc3ce0d9ae46cf42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_3a2b7afb9e37189ac4d0ba07871534360c8d5b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\580c6b9823428e7a16c6964407d16e193672b74f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b91521a5a4d00039b04962b9a49d167b26149db7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\bd7482d032703ff9e547a4f81ba40a72ca96d101\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d62480d561bdab902ded885fdfe61a573aa23ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\ed3c15ffeb05db0e1db2e17f3a844efafba6cca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48e80e36077fdb5393264cf4c3a558a1ad62c7cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_5c5265f107f8e259bd3bc5684b15b88bc8a781cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\acd881240b5e6039d951bcef6aa1af1fe4478305\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14de011c9534de5d16b2177a76e69a0d625a05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\156fa7b1ee66cc3ccef38b5736d6b89611bc0264\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1de5e22a246a0c15ea3965d8f0a836019563c168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_2567caad6a4e79fbbdef4d53006e7c452d517ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\4e09afa2f6a27da43bbb14abfc1547dff071a8f3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6104853559ac326346e1a4da1ee29f5d1b9e49f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_03b4fd5bae35ad0695c1f149c87aa80acfa7142c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.6.0\81887458b69ddc32722df7e4c35235fd74e6a8ba\logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.6.0_700d95687653b4a51049754aa1996d990ccb27f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\886aac411d2ac5fd20d01ba3a21572d38e2add4f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_953b9d10fe92067587cca97eeb5b16f498eb95c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27a66be84bf27903c449a5fe538d1bb247c0b0d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\580c6b9823428e7a16c6964407d16e193672b74f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\User\Desktop\cargaRutaWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1f50fca0bd37899e06b99372ac99f40bc83f812b\classes.dex" />
+    </item>
+
+</items>
